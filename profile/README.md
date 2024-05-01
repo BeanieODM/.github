@@ -1,7 +1,7 @@
 # Welcome to BeanieODM!
 
 ## About BeanieODM
-BeanieODM is the official home for the Beanie and Bunnet projects. Our organization is focused on developing innovative database management tools that are designed to integrate seamlessly with Python. These tools cater to different database interaction needs—Beanie for asynchronous operations and Bunnet for synchronous operations. Our goal is to enhance productivity and flexibility for developers working with databases.
+BeanieODM is the official home for the Beanie and Bunnet projects. Our organization is focused on developing innovative database management tools that are designed to integrate seamlessly with Python.
 
 ### Projects
 - **[Beanie](https://github.com/BeanieODM/beanie)**: An asynchronous ORM (Object-Relational Mapping) for MongoDB, allowing developers to manage their database with Pythonic models and asynchronous operations. For more details, visit [Beanie documentation](https://beanie-odm.dev/).
